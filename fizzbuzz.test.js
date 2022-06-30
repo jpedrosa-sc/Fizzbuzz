@@ -5,7 +5,6 @@ describe('fizzbuzz', () => {
         expect(true).toBe(true);
     });
 
-
     test("Debe devolver 0 si le paso un 0", () =>{
         const expected = 0;
         const result = fizzbuzz(0);
