@@ -33,7 +33,22 @@ si el número es divisible por 3 y 5 devuelve FizzBuzz
 	19
 	Buzz
 	... etc hasta 100
-    
+
+
+---
+## Parte 2
+---
+
+
+## Nuevos requisitos
+
+ - Un número será Fizz si contiene un 3 (13, 30, ...)   
+ - Un número será Buzz si contiene un 5 (25, 52,...)
+ - Un número será FizzBuzz si:
+ 	- tiene un 3 y un 5 en el
+     (35, 53,...)
+
+ - Todo esto manteniendo los requisitos anteriores.
 
 # Instalación node
 
